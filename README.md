@@ -6,7 +6,7 @@ bu projede bir flutter uygulaması yaptım.
 - [@keyvanarasteh](https://github.com/keyvanarasteh/keyvanarasteh)
 - ## Uygulama Ekran Görüntüleri
 
-![Uygulama Görüntüsü](Ekran_Resmi_2.png) 
+![Uygulama Görüntüsü](file:///Users/tunahancaglayan/Desktop/Ekran_Resmi_2.png) 
 
 
 - This project is a starting point for a Flutter application.
